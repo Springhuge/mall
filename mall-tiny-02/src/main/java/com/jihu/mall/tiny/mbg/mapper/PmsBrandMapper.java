@@ -2,8 +2,9 @@ package com.jihu.mall.tiny.mbg.mapper;
 
 import com.jihu.mall.tiny.mbg.model.PmsBrand;
 import com.jihu.mall.tiny.mbg.model.PmsBrandExample;
-import java.util.List;
 import org.apache.ibatis.annotations.Param;
+
+import java.util.List;
 
 public interface PmsBrandMapper {
     int countByExample(PmsBrandExample example);
