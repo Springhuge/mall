@@ -5,3 +5,4 @@
 mall-tiny-01 Spring Boot整合mybatis <br>
 mall-tiny-02 Spring Boot整合Swagger2 <br>
 mall-tiny-03 Spring Boot整合Redis <br>
+mall-tiny-04 Spring Boot整合JWT、Spring Security <br>
